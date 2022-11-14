@@ -1,0 +1,10 @@
+repo satu
+repo dua
+repo tiga
+
+repo empat
+repo lima
+repo enam
+
+repo tujuh
+repo delapan
